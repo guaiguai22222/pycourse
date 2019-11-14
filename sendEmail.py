@@ -22,7 +22,7 @@ with open(file, "r", encoding="ISO-8859-1") as csv_file:
 
 from_addr = '372071282@qq.com'
 #邮箱的授权码
-password = 'kgybryimllmmbcgh'
+password = 'expbiufsoreubjbi'
 
 print('recevier:' + to_addr)
 #邮箱服务器地址
